@@ -5031,7 +5031,7 @@
       "authorName": "D.ARCH",
       "videoLink": "https://www.youtube.com/watch?v=vcsV4knp9Ec",
       "authorLink": "https://www.youtube.com/channel/UCa8P5T2SfHr2aCJLJOrOfKA/videos",
-      "addon": ""
+      "addon": "Ladybug"
     },
     {
       "videoName": "Simulate Pedestrians In Real Time Using Pedsim - Let Your Computer Do The Work !",
@@ -5136,7 +5136,7 @@
       "authorName": "Mingbo Peng",
       "videoLink": "https://www.youtube.com/watch?v=t3JfC35CGYs",
       "authorLink": "",
-      "addon": "Heron"
+      "addon": "Heron,Honeybee"
     },
     {
       "videoName": "01 Honeybee Quickstart - Getting Started",
@@ -6011,14 +6011,14 @@
       "authorName": "Mostapha Sadeghipour Roudsari",
       "videoLink": "https://www.youtube.com/watch?v=10yxTR7foUQ",
       "authorLink": "",
-      "addon": "Human UI"
+      "addon": "Human UI,Honeybee"
     },
     {
       "videoName": "Setting Up Daylight Analysis From Rhino Using Honeybee And Human Ui",
       "authorName": "Mostapha Sadeghipour Roudsari",
       "videoLink": "https://www.youtube.com/watch?v=ZNDEbVHdsxk",
       "authorLink": "",
-      "addon": "Human UI"
+      "addon": "Human UI,Honeybee"
     },
     {
       "videoName": "Hummingbird Workflow 01",
@@ -8154,6 +8154,27 @@
       "videoLink": "https://www.youtube.com/watch?v=nVnra8YCfUs",
       "authorLink": "https://www.youtube.com/channel/UC8KT6YVD2_mAF2kO0c74NfA/videos",
       "addon": "RhinoMembrane"
+    },
+    {
+      "videoName": "03: How to install Butterfly for Grasshopper",
+      "authorName": "Mostapha Sadeghipour Roudsari",
+      "videoLink": "https://www.youtube.com/watch?v=4KGeJokLeL8",
+      "authorLink": "https://www.youtube.com/user/MostaphaSad/videos",
+      "addon": "Butterfly"
+    },
+    {
+      "videoName": "04: Outdoor Airflow Modeling With Butterfly in Grasshopper",
+      "authorName": "Mostapha Sadeghipour Roudsari",
+      "videoLink": "https://www.youtube.com/watch?v=0auA5exoL9M",
+      "authorLink": "https://www.youtube.com/user/MostaphaSad/videos",
+      "addon": "Butterfly"
+    },
+    {
+      "videoName": "05: Indoor Airflow Modeling With Butterfly in Grasshopper",
+      "authorName": "Mostapha Sadeghipour Roudsari",
+      "videoLink": "https://www.youtube.com/watch?v=fYuESbOVyp4",
+      "authorLink": "https://www.youtube.com/user/MostaphaSad/videos",
+      "addon": "Butterfly"
     }
   ]
 }
